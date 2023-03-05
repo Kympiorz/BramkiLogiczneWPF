@@ -1,0 +1,47 @@
+C:\Users\3bg\source\repos\projektx\projektx\obj\Debug\projektx.csprojAssemblyReference.cache
+C:\Users\3bg\source\repos\projektx\projektx\obj\Debug\MainWindow.g.cs
+C:\Users\3bg\source\repos\projektx\projektx\obj\Debug\App.g.cs
+C:\Users\3bg\source\repos\projektx\projektx\obj\Debug\projektx_MarkupCompile.cache
+C:\Users\3bg\source\repos\projektx\projektx\obj\Debug\projektx_MarkupCompile.lref
+C:\Users\3bg\source\repos\projektx\projektx\bin\Debug\projektx.exe.config
+C:\Users\3bg\source\repos\projektx\projektx\bin\Debug\projektx.exe
+C:\Users\3bg\source\repos\projektx\projektx\bin\Debug\projektx.pdb
+C:\Users\3bg\source\repos\projektx\projektx\obj\Debug\MainWindow.baml
+C:\Users\3bg\source\repos\projektx\projektx\obj\Debug\projektx.g.resources
+C:\Users\3bg\source\repos\projektx\projektx\obj\Debug\projektx.Properties.Resources.resources
+C:\Users\3bg\source\repos\projektx\projektx\obj\Debug\projektx.csproj.GenerateResource.cache
+C:\Users\3bg\source\repos\projektx\projektx\obj\Debug\projektx.csproj.CoreCompileInputs.cache
+C:\Users\3bg\source\repos\projektx\projektx\obj\Debug\projektx.exe
+C:\Users\3bg\source\repos\projektx\projektx\obj\Debug\projektx.pdb
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\bin\Debug\projektx.exe.config
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\bin\Debug\projektx.exe
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\bin\Debug\projektx.pdb
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.csproj.AssemblyReference.cache
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.csproj.SuggestedBindingRedirects.cache
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\MainWindow.g.cs
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\App.g.cs
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx_MarkupCompile.cache
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx_MarkupCompile.lref
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\MainWindow.baml
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.g.resources
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.Properties.Resources.resources
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.csproj.GenerateResource.cache
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.csproj.CoreCompileInputs.cache
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.exe
+F:\wpfzkompa\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.pdb
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\bin\Debug\projektx.exe.config
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\bin\Debug\projektx.exe
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\bin\Debug\projektx.pdb
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.csproj.AssemblyReference.cache
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\MainWindow.g.cs
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\App.g.cs
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx_MarkupCompile.cache
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx_MarkupCompile.lref
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\MainWindow.baml
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.g.resources
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.Properties.Resources.resources
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.csproj.GenerateResource.cache
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.csproj.CoreCompileInputs.cache
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.exe
+C:\Users\Kympiorz_laptop\Desktop\WpfApp11 BramkiLogiczne\projektx\obj\Debug\projektx.pdb

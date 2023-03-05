@@ -1,0 +1,104 @@
+﻿<Window x:Class="projektx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:projektx"
+        mc:Ignorable="d"
+        Title="BramkiLogiczne" Height="717" Width="800" Icon="icon.png">
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150px" />
+            <RowDefinition Height="100px" />
+            <RowDefinition Height="100px"/>
+            <RowDefinition Height="100px"/>
+            <RowDefinition Height="100px"/>
+            <RowDefinition Height="100px" />
+        </Grid.RowDefinitions>
+
+        <TextBlock
+            Text="CHOOSE YOUR BRAMKA"
+            FontSize="60px"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Foreground="Wheat"
+            />
+        <StackPanel 
+            Orientation="Horizontal"
+            Grid.Row="1"
+            HorizontalAlignment="Center"
+            >
+            <TextBox x:Name="Wartosc" Text="0" FontSize="64" Foreground="Wheat" Background="#B2FF0000" Width="200px" Margin="5px" TextAlignment="Center" />
+            <TextBox x:Name="Wartosc2" Text="0" FontSize="64" Foreground="Wheat" Background="#AFFF0000" Width="200px" Margin="5px" TextAlignment="Center" />
+        </StackPanel>
+        <StackPanel 
+            Orientation="Horizontal"
+            Grid.Row="2"
+            HorizontalAlignment="Center"
+            >
+            <Button x:Name="firstbutton" Click="firstb" Foreground="Wheat" Background="Red" Width="200px" Margin="5px"  FontSize="24">
+            <StackPanel Orientation="Vertical">
+                <Image Source="not1.jpg" Height="53" />
+                    <TextBlock HorizontalAlignment="Center" Text="NOT"></TextBlock>
+            </StackPanel>
+            </Button>
+            <Button x:Name="twicebutton" Click="twiceb" Foreground="Wheat" Background="Red" Width="200px" Margin="5px" FontSize="24">
+                <StackPanel Orientation="Vertical">
+                    <Image Source="and.jpg" Height="53" />
+                    <TextBlock HorizontalAlignment="Center" Text="AND"></TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <StackPanel 
+            Orientation="Horizontal"
+            Grid.Row="3"
+            HorizontalAlignment="Center"
+            >
+            <Button x:Name="fourthbutton" Click="fourthb" Foreground="Wheat" Background="Red" Width="200px" Margin="5px"  FontSize="24">
+                <StackPanel Orientation="Vertical">
+                    <Image Source="or.jpg" Height="53" />
+                    <TextBlock HorizontalAlignment="Center" Text="OR"></TextBlock>
+                </StackPanel>
+            </Button>
+            <Button x:Name="fivethbutton" Click="fivethb" Foreground="Wheat" Background="Red" Width="200px" Margin="5px" FontSize="24">
+                <StackPanel Orientation="Vertical">
+                    <Image Source="xor.jpg" Height="53" />
+                    <TextBlock HorizontalAlignment="Center" Text="XOR"></TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <StackPanel 
+            Orientation="Horizontal"
+            Grid.Row="4"
+            HorizontalAlignment="Center"
+            >
+            <Button x:Name="sixthbutton" Click="sixthb" Foreground="Wheat" Background="Red" Width="200px" Margin="5px"  FontSize="24">
+                <StackPanel Orientation="Vertical">
+                    <Image Source="nand.jpg" Height="53" />
+                    <TextBlock HorizontalAlignment="Center" Text="NAND"></TextBlock>
+                </StackPanel>
+            </Button>
+            <Button x:Name="seventhbutton" Click="seventhb" Foreground="Wheat" Background="Red" Width="200px" Margin="5px" FontSize="24">
+                <StackPanel Orientation="Vertical">
+                    <Image Source="nor.jpg" Height="53" />
+                    <TextBlock HorizontalAlignment="Center" Text="NOR"></TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <StackPanel 
+            Orientation="Horizontal"
+            Grid.Row="5"
+            HorizontalAlignment="Center"
+            >
+            
+            <TextBlock
+            Padding="5px"
+            x:Name="wynik"
+            FontSize="60px"
+            Foreground="Wheat"
+            Text="WYNIK"
+            Background="#B5FF0000" Width="400px" Height="110px" TextAlignment="Center"
+            />
+        </StackPanel>
+    </Grid>
+</Window>
